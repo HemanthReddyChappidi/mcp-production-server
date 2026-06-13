@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # MCP Production Server
 
 An MCP (Model Context Protocol) server that exposes structured production data to LLM agents via typed tool definitions. Agents query live metrics, filter by time range, and trigger alerts through natural language.
